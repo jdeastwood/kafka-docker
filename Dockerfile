@@ -1,4 +1,4 @@
-FROM ubuntu:trusty
+FROM centos:7
 
 MAINTAINER Wurstmeister 
 
